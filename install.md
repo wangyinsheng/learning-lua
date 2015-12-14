@@ -3,8 +3,8 @@
 [下载地址](http://www.lua.org/ftp/lua-5.3.2.tar.gz)
 
 ###下载libreadline的相关包，否则编译时提示找不到readline.h
-sudo apt-get install libreadline5
-sudo apt-get install libreadline5-dev
+    	sudo apt-get install libreadline5
+    	sudo apt-get install libreadline5-dev
 
 ###编译源码
 tar xzf lua-5.3.2.tar.gz
